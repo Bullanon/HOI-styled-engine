@@ -1,0 +1,80 @@
+{
+    "0": {
+        "name": "CHAZ",
+        "flag": "1",
+        "unit_type": "0",
+        "cap": "93"
+    },
+    "1": {
+        "name": "x",
+        "flag": "0",
+        "unit_type": "0",
+        "cap": "43"
+    },
+    "2": {
+        "name": "Greater Detroit",
+        "flag": "2",
+        "unit_type": "0",
+        "cap": "83"
+    },
+    "3": {
+        "name": "GAY TEXAS",
+        "flag": "3",
+        "unit_type": "0",
+        "cap": "94"
+    },
+    "4": {
+        "name": "Church of St. Bernard",
+        "flag": "4",
+        "unit_type": "0",
+        "cap": "34"
+    },
+    "5": {
+        "name": "N.T.I",
+        "flag": "5",
+        "unit_type": "0",
+        "cap": "81"
+    },
+    "6": {
+        "name": "MAGA COUNTRY",
+        "flag": "6",
+        "unit_type": "0",
+        "cap": "38"
+    },
+    "7": {
+        "name": "ASA",
+        "flag": "7",
+        "unit_type": "0",
+        "cap": "70"
+    },
+    "8": {
+        "name": "Jesusland",
+        "flag": "8",
+        "unit_type": "0",
+        "cap": "8"
+    },
+    "9": {
+        "name": "AWS",
+        "flag": "9",
+        "unit_type": "0",
+        "cap": "104"
+    },
+    "10": {
+        "name": "Kekistan",
+        "flag": "10",
+        "unit_type": "0",
+        "cap": "49"
+    },
+    "11": {
+        "name": "Silicon Valley",
+        "flag": "11",
+        "unit_type": "0",
+        "cap": "63"
+    },
+    "12": {
+        "name": "Pillbox",
+        "flag": "12",
+        "unit_type": "0",
+        "cap": "90"
+    }
+}

@@ -1,0 +1,2343 @@
+{
+         "0": {
+                  "name": "Place1",
+                  "owner": "GAY TEXAS",
+                  "ic": 2,
+                  "pop": 30,
+                  "x": 2043,
+                  "y": 1330,
+                  "ter": 0,
+                  "state": "Texas",
+                  "path": [
+                           "94",
+                           "102"
+                  ],
+                  "units": [
+                           "1",
+                           "3",
+                           "2",
+                           "2",
+                           "1"
+                  ]
+         },
+         "1": {
+                  "name": "Place2",
+                  "owner": "GAY TEXAS",
+                  "ic": 2,
+                  "pop": 60,
+                  "x": 1754,
+                  "y": 1070,
+                  "ter": 0,
+                  "state": "New Mexico",
+                  "path": [
+                           "51",
+                           "29",
+                           "96",
+                           "37"
+                  ],
+                  "units": [
+                           "1"
+                  ]
+         },
+         "2": {
+                  "name": "Place3",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 25,
+                  "x": 989,
+                  "y": 810,
+                  "ter": 5,
+                  "state": "California",
+                  "path": [
+                           "31",
+                           "20",
+                           "66",
+                           "97",
+                           "53"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "3": {
+                  "name": "Place4",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 74,
+                  "x": 929,
+                  "y": 600,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "28",
+                           "55",
+                           "78",
+                           "108"
+                  ],
+                  "units": [
+                           "1"
+                  ]
+         },
+         "4": {
+                  "name": "Place5",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 76,
+                  "x": 1125,
+                  "y": 860,
+                  "ter": 5,
+                  "state": "California",
+                  "path": [
+                           "32",
+                           "21",
+                           "109",
+                           "24"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "5": {
+                  "name": "Place6",
+                  "owner": "N.T.I",
+                  "ic": 2,
+                  "pop": 59,
+                  "x": 1080,
+                  "y": 93,
+                  "ter": 3,
+                  "state": "Washington",
+                  "path": [
+                           "58",
+                           "101",
+                           "81",
+                           "112",
+                           "62",
+                           "19"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "6": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 23,
+                  "x": 933,
+                  "y": 499,
+                  "ter": 5,
+                  "state": "Oregon",
+                  "path": [
+                           "28",
+                           "108",
+                           "23",
+                           "113",
+                           "18"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "7": {
+                  "name": "Place8",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 9,
+                  "x": 1013,
+                  "y": 649,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "54",
+                           "65",
+                           "41",
+                           "50",
+                           "78"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "8": {
+                  "name": "Place9",
+                  "owner": "Jesusland",
+                  "ic": 2,
+                  "pop": 100,
+                  "x": 2005,
+                  "y": 420,
+                  "ter": 4,
+                  "state": "Dakota",
+                  "path": [
+                           "38",
+                           "46",
+                           "60",
+                           "91",
+                           "22",
+                           "67"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "9": {
+                  "name": "Place1",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 9,
+                  "x": 1280,
+                  "y": 500,
+                  "ter": 3,
+                  "state": "Idaho",
+                  "path": [
+                           "110",
+                           "68",
+                           "11",
+                           "13"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "10": {
+                  "name": "Place2",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 59,
+                  "x": 875,
+                  "y": 126,
+                  "ter": 4,
+                  "state": "Washington",
+                  "path": [
+                           "87"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "11": {
+                  "name": "Place3",
+                  "owner": "MAGA COUNTRY",
+                  "ic": 2,
+                  "pop": 64,
+                  "x": 1423,
+                  "y": 433,
+                  "ter": 5,
+                  "state": "Idaho",
+                  "path": [
+                           "13",
+                           "9",
+                           "68",
+                           "38",
+                           "35"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "12": {
+                  "name": "Place4",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 91,
+                  "x": 2427,
+                  "y": 1222,
+                  "ter": 1,
+                  "state": "Louisiana",
+                  "path": [
+                           "76",
+                           "30"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "13": {
+                  "name": "Place5",
+                  "owner": "Church of St. Bernard",
+                  "ic": 2,
+                  "pop": 65,
+                  "x": 1175,
+                  "y": 515,
+                  "ter": 3,
+                  "state": "Nevada",
+                  "path": [
+                           "36",
+                           "110",
+                           "9",
+                           "11",
+                           "35",
+                           "100",
+                           "34",
+                           "41"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "14": {
+                  "name": "Place6",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 96,
+                  "x": 1165,
+                  "y": 300,
+                  "ter": 3,
+                  "state": "Oregon",
+                  "path": [
+                           "73",
+                           "35",
+                           "100",
+                           "44"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "15": {
+                  "name": "Place7",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 58,
+                  "x": 980,
+                  "y": 210,
+                  "ter": 4,
+                  "state": "Washington",
+                  "path": [
+                           "52",
+                           "56",
+                           "40",
+                           "27",
+                           "17",
+                           "93"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "16": {
+                  "name": "Place8",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 33,
+                  "x": 932,
+                  "y": 94,
+                  "ter": 5,
+                  "state": "Washington",
+                  "path": [
+                           "19",
+                           "62"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "17": {
+                  "name": "Place9",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 56,
+                  "x": 935,
+                  "y": 229,
+                  "ter": 4,
+                  "state": "Washington",
+                  "path": [
+                           "103",
+                           "70",
+                           "27",
+                           "15",
+                           "93"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "18": {
+                  "name": "Place1",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 6,
+                  "x": 876,
+                  "y": 465,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "28",
+                           "6",
+                           "113"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "19": {
+                  "name": "Place2",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 62,
+                  "x": 987,
+                  "y": 79,
+                  "ter": 4,
+                  "state": "Washington",
+                  "path": [
+                           "16",
+                           "62",
+                           "5"
+                  ],
+                  "units": [
+                           "1",
+                           "3",
+                           "3",
+                           "2"
+                  ]
+         },
+         "20": {
+                  "name": "Place3",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 75,
+                  "x": 1020,
+                  "y": 837,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "31",
+                           "24",
+                           "66",
+                           "2"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "21": {
+                  "name": "Place4",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 60,
+                  "x": 1218,
+                  "y": 925,
+                  "ter": 3,
+                  "state": "California",
+                  "path": [
+                           "63",
+                           "64",
+                           "43",
+                           "74",
+                           "47",
+                           "26",
+                           "109",
+                           "4",
+                           "32",
+                           "59"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "22": {
+                  "name": "Place5",
+                  "owner": "Jesusland",
+                  "ic": 2,
+                  "pop": 95,
+                  "x": 1988,
+                  "y": 170,
+                  "ter": 4,
+                  "state": "Dakota",
+                  "path": [
+                           "111",
+                           "67",
+                           "8",
+                           "91",
+                           "39"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "23": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 55,
+                  "x": 1026,
+                  "y": 474,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "108",
+                           "50",
+                           "41",
+                           "34",
+                           "48",
+                           "82",
+                           "113",
+                           "6"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "24": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 76,
+                  "x": 1095,
+                  "y": 810,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "31",
+                           "20",
+                           "32",
+                           "4",
+                           "109",
+                           "92",
+                           "66"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "25": {
+                  "name": "Place8",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 55,
+                  "x": 1137,
+                  "y": 205,
+                  "ter": 0,
+                  "state": "Washington",
+                  "path": [
+                           "81",
+                           "73",
+                           "71",
+                           "101"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "26": {
+                  "name": "Las Vegas",
+                  "owner": "AWS",
+                  "ic": 2,
+                  "pop": 11,
+                  "x": 1295,
+                  "y": 808,
+                  "ter": 1,
+                  "state": "Nevada",
+                  "path": [
+                           "107",
+                           "110",
+                           "45",
+                           "47",
+                           "21",
+                           "109"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "27": {
+                  "name": "Place1",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 8,
+                  "x": 1037,
+                  "y": 240,
+                  "ter": 3,
+                  "state": "Washington",
+                  "path": [
+                           "70",
+                           "73",
+                           "81",
+                           "40",
+                           "15",
+                           "17"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "28": {
+                  "name": "Place2",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 67,
+                  "x": 888,
+                  "y": 603,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "55",
+                           "3",
+                           "108",
+                           "6",
+                           "18"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "29": {
+                  "name": "Place3",
+                  "owner": "GAY TEXAS",
+                  "ic": 2,
+                  "pop": 74,
+                  "x": 1915,
+                  "y": 985,
+                  "ter": 0,
+                  "state": "Texas",
+                  "path": [
+                           "96",
+                           "1",
+                           "51",
+                           "102",
+                           "86",
+                           "89",
+                           "60",
+                           "46"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "30": {
+                  "name": "Place4",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 87,
+                  "x": 2463,
+                  "y": 1150,
+                  "ter": 5,
+                  "state": "Louisiana",
+                  "path": [
+                           "61",
+                           "76",
+                           "12"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "31": {
+                  "name": "Place5",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 25,
+                  "x": 1010,
+                  "y": 865,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "59",
+                           "32",
+                           "24",
+                           "20",
+                           "2"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "32": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 15,
+                  "x": 1080,
+                  "y": 873,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "21",
+                           "4",
+                           "24",
+                           "31"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "33": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 95,
+                  "x": 1433,
+                  "y": 1060,
+                  "ter": 1,
+                  "state": "Arizona",
+                  "path": [
+                           "74",
+                           "90",
+                           "37"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "34": {
+                  "name": "Place8",
+                  "owner": "Church of St. Bernard",
+                  "ic": 2,
+                  "pop": 28,
+                  "x": 1116,
+                  "y": 440,
+                  "ter": 3,
+                  "state": "Oregon",
+                  "path": [
+                           "23",
+                           "13",
+                           "100",
+                           "48"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "35": {
+                  "name": "Place9",
+                  "owner": "MAGA COUNTRY",
+                  "ic": 2,
+                  "pop": 75,
+                  "x": 1340,
+                  "y": 312,
+                  "ter": 3,
+                  "state": "Idaho",
+                  "path": [
+                           "13",
+                           "11",
+                           "38",
+                           "67",
+                           "99",
+                           "71",
+                           "73",
+                           "14",
+                           "100"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "36": {
+                  "name": "Place1",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 16,
+                  "x": 1143,
+                  "y": 640,
+                  "ter": 3,
+                  "state": "Nevada",
+                  "path": [
+                           "80",
+                           "107",
+                           "110",
+                           "13",
+                           "41"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "37": {
+                  "name": "Place2",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 47,
+                  "x": 1607,
+                  "y": 955,
+                  "ter": 1,
+                  "state": "New Mexico",
+                  "path": [
+                           "33",
+                           "90",
+                           "46",
+                           "96",
+                           "1"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "38": {
+                  "name": "Place3",
+                  "owner": "MAGA COUNTRY",
+                  "ic": 2,
+                  "pop": 23,
+                  "x": 1630,
+                  "y": 445,
+                  "ter": 0,
+                  "state": "Wyoming",
+                  "path": [
+                           "68",
+                           "46",
+                           "8",
+                           "67",
+                           "35",
+                           "11"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "39": {
+                  "name": "Place4",
+                  "owner": "Greater Detroit",
+                  "ic": 2,
+                  "pop": 13,
+                  "x": 2305,
+                  "y": 163,
+                  "ter": 4,
+                  "state": "Illinois",
+                  "path": [
+                           "22",
+                           "91"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "40": {
+                  "name": "Place5",
+                  "owner": "N.T.I",
+                  "ic": 2,
+                  "pop": 87,
+                  "x": 1034,
+                  "y": 192,
+                  "ter": 3,
+                  "state": "Washington",
+                  "path": [
+                           "56",
+                           "112",
+                           "81",
+                           "27",
+                           "15"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "41": {
+                  "name": "Place6",
+                  "owner": "AWS",
+                  "ic": 2,
+                  "pop": 53,
+                  "x": 1085,
+                  "y": 600,
+                  "ter": 3,
+                  "state": "Nevada",
+                  "path": [
+                           "65",
+                           "106",
+                           "80",
+                           "36",
+                           "13",
+                           "23",
+                           "50",
+                           "7"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "42": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 69,
+                  "x": 917,
+                  "y": 346,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "69",
+                           "95",
+                           "104",
+                           "57",
+                           "82"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "43": {
+                  "name": "Los Angeles",
+                  "owner": "AWS",
+                  "ic": 2,
+                  "pop": 75,
+                  "x": 1150,
+                  "y": 964,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "75",
+                           "21",
+                           "63"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "44": {
+                  "name": "Place9",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 32,
+                  "x": 1077,
+                  "y": 315,
+                  "ter": 3,
+                  "state": "Oregon",
+                  "path": [
+                           "116",
+                           "70",
+                           "73",
+                           "14",
+                           "100",
+                           "48"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "45": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 43,
+                  "x": 1430,
+                  "y": 725,
+                  "ter": 3,
+                  "state": "Utah",
+                  "path": [
+                           "47",
+                           "90",
+                           "46",
+                           "68",
+                           "110",
+                           "26"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "46": {
+                  "name": "Denver",
+                  "owner": "Kekistan",
+                  "ic": 2,
+                  "pop": 13,
+                  "x": 1707,
+                  "y": 700,
+                  "ter": 3,
+                  "state": "Colorado",
+                  "path": [
+                           "45",
+                           "68",
+                           "38",
+                           "8",
+                           "60",
+                           "29",
+                           "96",
+                           "37",
+                           "90"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "47": {
+                  "name": "Place8",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 80,
+                  "x": 1345,
+                  "y": 903,
+                  "ter": 1,
+                  "state": "Arizona",
+                  "path": [
+                           "90",
+                           "74",
+                           "21",
+                           "26",
+                           "45"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "48": {
+                  "name": "Place9",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 38,
+                  "x": 1034,
+                  "y": 393,
+                  "ter": 3,
+                  "state": "Oregon",
+                  "path": [
+                           "57",
+                           "116",
+                           "44",
+                           "100",
+                           "34",
+                           "23",
+                           "82"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "49": {
+                  "name": "Place1",
+                  "owner": "Kekistan",
+                  "ic": 2,
+                  "pop": 82,
+                  "x": 2360,
+                  "y": 715,
+                  "ter": 5,
+                  "state": "Missouri",
+                  "path": [
+                           "91",
+                           "60",
+                           "89",
+                           "61"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "50": {
+                  "name": "Place2",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 33,
+                  "x": 1040,
+                  "y": 576,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "7",
+                           "41",
+                           "23",
+                           "108",
+                           "78"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "51": {
+                  "name": "Place3",
+                  "owner": "GAY TEXAS",
+                  "ic": 2,
+                  "pop": 25,
+                  "x": 1857,
+                  "y": 1180,
+                  "ter": 1,
+                  "state": "Texas",
+                  "path": [
+                           "1",
+                           "29",
+                           "102"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "52": {
+                  "name": "Place4",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 92,
+                  "x": 924,
+                  "y": 175,
+                  "ter": 2,
+                  "state": "Washington",
+                  "path": [
+                           "87",
+                           "93",
+                           "15",
+                           "56",
+                           "79"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "53": {
+                  "name": "Silicon Valley",
+                  "owner": "Silicon Valley",
+                  "ic": 2,
+                  "pop": 41,
+                  "x": 960,
+                  "y": 792,
+                  "ter": 5,
+                  "state": "California",
+                  "path": [
+                           "2",
+                           "97"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "54": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 13,
+                  "x": 960,
+                  "y": 679,
+                  "ter": 5,
+                  "state": "California",
+                  "path": [
+                           "55",
+                           "84",
+                           "77",
+                           "65",
+                           "7",
+                           "78"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "55": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 64,
+                  "x": 914,
+                  "y": 680,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "84",
+                           "54",
+                           "78",
+                           "3",
+                           "28"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "56": {
+                  "name": "Tacoma",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 21,
+                  "x": 981,
+                  "y": 172,
+                  "ter": 2,
+                  "state": "Washington",
+                  "path": [
+                           "79",
+                           "112",
+                           "40",
+                           "27",
+                           "15",
+                           "52"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "57": {
+                  "name": "Place9",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 41,
+                  "x": 951,
+                  "y": 360,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "42",
+                           "104",
+                           "116",
+                           "48",
+                           "82"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "58": {
+                  "name": "Place1",
+                  "owner": "N.T.I",
+                  "ic": 2,
+                  "pop": 99,
+                  "x": 1154,
+                  "y": 105,
+                  "ter": 3,
+                  "state": "Washington",
+                  "path": [
+                           "5",
+                           "101",
+                           "85"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "59": {
+                  "name": "Place2",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 63,
+                  "x": 1052,
+                  "y": 910,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "72",
+                           "21",
+                           "31"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "60": {
+                  "name": "Place3",
+                  "owner": "Kekistan",
+                  "ic": 2,
+                  "pop": 40,
+                  "x": 2055,
+                  "y": 695,
+                  "ter": 4,
+                  "state": "Kansas",
+                  "path": [
+                           "8",
+                           "46",
+                           "29",
+                           "89",
+                           "49",
+                           "91"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "61": {
+                  "name": "Place4",
+                  "owner": "Kekistan",
+                  "ic": 2,
+                  "pop": 89,
+                  "x": 2350,
+                  "y": 970,
+                  "ter": 4,
+                  "state": "Arkansas",
+                  "path": [
+                           "49",
+                           "89",
+                           "86",
+                           "76",
+                           "30"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "62": {
+                  "name": "Place5",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 50,
+                  "x": 995,
+                  "y": 100,
+                  "ter": 5,
+                  "state": "Washington",
+                  "path": [
+                           "16",
+                           "19",
+                           "5",
+                           "112",
+                           "79"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "63": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 78,
+                  "x": 1113,
+                  "y": 960,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "43",
+                           "21",
+                           "59",
+                           "72"
+                  ],
+                  "units": [
+                           "1"
+                  ]
+         },
+         "64": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 43,
+                  "x": 1250,
+                  "y": 1000,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "75",
+                           "21",
+                           "74",
+                           "88"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "65": {
+                  "name": "Place8",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 70,
+                  "x": 1026,
+                  "y": 687,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "54",
+                           "77",
+                           "106",
+                           "41",
+                           "7"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "66": {
+                  "name": "Place9",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 77,
+                  "x": 1031,
+                  "y": 793,
+                  "ter": 5,
+                  "state": "California",
+                  "path": [
+                           "2",
+                           "20",
+                           "24",
+                           "92",
+                           "106",
+                           "97"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "67": {
+                  "name": "Place6",
+                  "owner": "MAGA COUNTRY",
+                  "ic": 2,
+                  "pop": 5,
+                  "x": 1635,
+                  "y": 277,
+                  "ter": 0,
+                  "state": "Montana",
+                  "path": [
+                           "38",
+                           "8",
+                           "22",
+                           "111",
+                           "99",
+                           "35"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "68": {
+                  "name": "Salt Lake City",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 73,
+                  "x": 1415,
+                  "y": 585,
+                  "ter": 3,
+                  "state": "Utah",
+                  "path": [
+                           "45",
+                           "46",
+                           "38",
+                           "11",
+                           "9",
+                           "110"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "69": {
+                  "name": "Place8",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 76,
+                  "x": 892,
+                  "y": 361,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "95",
+                           "42",
+                           "82"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "70": {
+                  "name": "Place9",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 59,
+                  "x": 986,
+                  "y": 270,
+                  "ter": 2,
+                  "state": "Oregon",
+                  "path": [
+                           "103",
+                           "104",
+                           "116",
+                           "44",
+                           "73",
+                           "27",
+                           "17"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "71": {
+                  "name": "Place1",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 86,
+                  "x": 1208,
+                  "y": 206,
+                  "ter": 3,
+                  "state": "Idaho",
+                  "path": [
+                           "73",
+                           "35",
+                           "99",
+                           "85",
+                           "101",
+                           "25"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "72": {
+                  "name": "Place2",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 19,
+                  "x": 1067,
+                  "y": 943,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "59",
+                           "63"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "73": {
+                  "name": "Place3",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 94,
+                  "x": 1130,
+                  "y": 240,
+                  "ter": 0,
+                  "state": "Washington",
+                  "path": [
+                           "70",
+                           "27",
+                           "81",
+                           "25",
+                           "71",
+                           "35",
+                           "14",
+                           "44"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "74": {
+                  "name": "Place4",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 5,
+                  "x": 1350,
+                  "y": 1032,
+                  "ter": 1,
+                  "state": "Arizona",
+                  "path": [
+                           "64",
+                           "21",
+                           "47",
+                           "90",
+                           "33",
+                           "88"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "75": {
+                  "name": "Place5",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 16,
+                  "x": 1173,
+                  "y": 1003,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "21",
+                           "64",
+                           "43",
+                           "88"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "76": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 5,
+                  "x": 2300,
+                  "y": 1130,
+                  "ter": 0,
+                  "state": "Louisiana",
+                  "path": [
+                           "94",
+                           "114",
+                           "105",
+                           "12",
+                           "30",
+                           "61",
+                           "86"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "77": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 46,
+                  "x": 978,
+                  "y": 730,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "97",
+                           "106",
+                           "65",
+                           "54",
+                           "84"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "78": {
+                  "name": "Place8",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 43,
+                  "x": 974,
+                  "y": 615,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "54",
+                           "7",
+                           "50",
+                           "108",
+                           "3",
+                           "55"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "79": {
+                  "name": "Seattle",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 46,
+                  "x": 987,
+                  "y": 133,
+                  "ter": 2,
+                  "state": "Washington",
+                  "path": [
+                           "62",
+                           "112",
+                           "56",
+                           "52"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "80": {
+                  "name": "Place1",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 7,
+                  "x": 1128,
+                  "y": 721,
+                  "ter": 5,
+                  "state": "Nevada",
+                  "path": [
+                           "92",
+                           "107",
+                           "36",
+                           "41",
+                           "106"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "81": {
+                  "name": "Place2",
+                  "owner": "N.T.I",
+                  "ic": 2,
+                  "pop": 41,
+                  "x": 1092,
+                  "y": 174,
+                  "ter": 3,
+                  "state": "Washington",
+                  "path": [
+                           "112",
+                           "5",
+                           "101",
+                           "25",
+                           "73",
+                           "27",
+                           "40"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "82": {
+                  "name": "Place3",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 19,
+                  "x": 950,
+                  "y": 403,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "113",
+                           "23",
+                           "48",
+                           "57",
+                           "42",
+                           "69"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "83": {
+                  "name": "Detroit",
+                  "owner": "Greater Detroit",
+                  "ic": 2,
+                  "pop": 88,
+                  "x": 2676,
+                  "y": 448,
+                  "ter": 2,
+                  "state": "Michigan",
+                  "path": [
+                           "91"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "84": {
+                  "name": "Place5",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 100,
+                  "x": 939,
+                  "y": 729,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "55",
+                           "54",
+                           "77",
+                           "115"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "85": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 6,
+                  "x": 1217,
+                  "y": 100,
+                  "ter": 3,
+                  "state": "Idaho",
+                  "path": [
+                           "58",
+                           "101",
+                           "71",
+                           "99",
+                           "98"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "86": {
+                  "name": "Dallas",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 83,
+                  "x": 2109,
+                  "y": 1070,
+                  "ter": 2,
+                  "state": "Texas",
+                  "path": [
+                           "29",
+                           "102",
+                           "94",
+                           "76",
+                           "61",
+                           "89"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "87": {
+                  "name": "Place8",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 84,
+                  "x": 897,
+                  "y": 157,
+                  "ter": 4,
+                  "state": "Washington",
+                  "path": [
+                           "10",
+                           "52",
+                           "93"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "88": {
+                  "name": "San Diego",
+                  "owner": "AWS",
+                  "ic": 2,
+                  "pop": 59,
+                  "x": 1247,
+                  "y": 1043,
+                  "ter": 1,
+                  "state": "California",
+                  "path": [
+                           "75",
+                           "64",
+                           "74"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "89": {
+                  "name": "Place6",
+                  "owner": "Kekistan",
+                  "ic": 2,
+                  "pop": 27,
+                  "x": 2100,
+                  "y": 905,
+                  "ter": 5,
+                  "state": "Arkansas",
+                  "path": [
+                           "60",
+                           "29",
+                           "86",
+                           "61",
+                           "49"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "90": {
+                  "name": "Place7",
+                  "owner": "Pillbox",
+                  "ic": 2,
+                  "pop": 88,
+                  "x": 1455,
+                  "y": 904,
+                  "ter": 1,
+                  "state": "Arizona",
+                  "path": [
+                           "33",
+                           "37",
+                           "46",
+                           "45",
+                           "47",
+                           "74"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "91": {
+                  "name": "Chicago",
+                  "owner": "Greater Detroit",
+                  "ic": 2,
+                  "pop": 49,
+                  "x": 2366,
+                  "y": 405,
+                  "ter": 2,
+                  "state": "Illinois",
+                  "path": [
+                           "39",
+                           "22",
+                           "8",
+                           "60",
+                           "49",
+                           "83"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "92": {
+                  "name": "Place9",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 24,
+                  "x": 1085,
+                  "y": 742,
+                  "ter": 3,
+                  "state": "California",
+                  "path": [
+                           "24",
+                           "109",
+                           "107",
+                           "80",
+                           "106",
+                           "66"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "93": {
+                  "name": "Place1",
+                  "owner": "CHAZ",
+                  "ic": 2,
+                  "pop": 62,
+                  "x": 893,
+                  "y": 184,
+                  "ter": 4,
+                  "state": "Washington",
+                  "path": [
+                           "87",
+                           "52",
+                           "15",
+                           "17"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "94": {
+                  "name": "Houston",
+                  "owner": "GAY TEXAS",
+                  "ic": 2,
+                  "pop": 78,
+                  "x": 2133,
+                  "y": 1220,
+                  "ter": 2,
+                  "state": "Texas",
+                  "path": [
+                           "0",
+                           "102",
+                           "86",
+                           "76",
+                           "114"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "95": {
+                  "name": "Place3",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 83,
+                  "x": 911,
+                  "y": 296,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "103",
+                           "104",
+                           "42",
+                           "69"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "96": {
+                  "name": "Place4",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 88,
+                  "x": 1775,
+                  "y": 907,
+                  "ter": 0,
+                  "state": "New Mexico",
+                  "path": [
+                           "37",
+                           "1",
+                           "29",
+                           "46"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "97": {
+                  "name": "San Jose",
+                  "owner": "AWS",
+                  "ic": 2,
+                  "pop": 21,
+                  "x": 983,
+                  "y": 774,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "115",
+                           "77",
+                           "106",
+                           "66",
+                           "2",
+                           "53"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "98": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 35,
+                  "x": 1355,
+                  "y": 100,
+                  "ter": 0,
+                  "state": "Montana",
+                  "path": [
+                           "85",
+                           "99",
+                           "111"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "99": {
+                  "name": "Helena",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 73,
+                  "x": 1353,
+                  "y": 186,
+                  "ter": 3,
+                  "state": "Montana",
+                  "path": [
+                           "35",
+                           "67",
+                           "111",
+                           "98",
+                           "85",
+                           "71"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "100": {
+                  "name": "Place8",
+                  "owner": "Church of St. Bernard",
+                  "ic": 2,
+                  "pop": 31,
+                  "x": 1119,
+                  "y": 360,
+                  "ter": 3,
+                  "state": "Oregon",
+                  "path": [
+                           "34",
+                           "13",
+                           "35",
+                           "14",
+                           "44",
+                           "48"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "101": {
+                  "name": "Place9",
+                  "owner": "N.T.I",
+                  "ic": 2,
+                  "pop": 86,
+                  "x": 1158,
+                  "y": 171,
+                  "ter": 0,
+                  "state": "Washington",
+                  "path": [
+                           "25",
+                           "71",
+                           "85",
+                           "58",
+                           "5",
+                           "81"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "102": {
+                  "name": "Place1",
+                  "owner": "GAY TEXAS",
+                  "ic": 2,
+                  "pop": 58,
+                  "x": 1997,
+                  "y": 1190,
+                  "ter": 0,
+                  "state": "Texas",
+                  "path": [
+                           "0",
+                           "51",
+                           "29",
+                           "86",
+                           "94"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "103": {
+                  "name": "Place2",
+                  "owner": "ASA",
+                  "ic": 2,
+                  "pop": 20,
+                  "x": 932,
+                  "y": 264,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "95",
+                           "104",
+                           "70",
+                           "17"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "104": {
+                  "name": "Portland",
+                  "owner": "AWS",
+                  "ic": 2,
+                  "pop": 38,
+                  "x": 970,
+                  "y": 322,
+                  "ter": 5,
+                  "state": "Oregon",
+                  "path": [
+                           "95",
+                           "42",
+                           "57",
+                           "116",
+                           "70",
+                           "103"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "105": {
+                  "name": "Place4",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 44,
+                  "x": 2352,
+                  "y": 1230,
+                  "ter": 0,
+                  "state": "Louisiana",
+                  "path": [
+                           "114",
+                           "76"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "106": {
+                  "name": "Place5",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 5,
+                  "x": 1038,
+                  "y": 732,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "66",
+                           "92",
+                           "80",
+                           "41",
+                           "65",
+                           "77",
+                           "97"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "107": {
+                  "name": "Place6",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 41,
+                  "x": 1215,
+                  "y": 750,
+                  "ter": 3,
+                  "state": "Nevada",
+                  "path": [
+                           "109",
+                           "92",
+                           "80",
+                           "36",
+                           "110",
+                           "26"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "108": {
+                  "name": "Place7",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 56,
+                  "x": 953,
+                  "y": 547,
+                  "ter": 4,
+                  "state": "California",
+                  "path": [
+                           "28",
+                           "3",
+                           "78",
+                           "50",
+                           "23",
+                           "6"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "109": {
+                  "name": "Place8",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 44,
+                  "x": 1185,
+                  "y": 844,
+                  "ter": 3,
+                  "state": "California",
+                  "path": [
+                           "21",
+                           "4",
+                           "24",
+                           "92",
+                           "107",
+                           "26"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "110": {
+                  "name": "Place9",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 78,
+                  "x": 1266,
+                  "y": 612,
+                  "ter": 0,
+                  "state": "Nevada",
+                  "path": [
+                           "107",
+                           "26",
+                           "45",
+                           "68",
+                           "9",
+                           "13",
+                           "36"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "111": {
+                  "name": "Place6",
+                  "owner": "Jesusland",
+                  "ic": 2,
+                  "pop": 43,
+                  "x": 1625,
+                  "y": 130,
+                  "ter": 0,
+                  "state": "Montana",
+                  "path": [
+                           "98",
+                           "99",
+                           "67",
+                           "22"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "112": {
+                  "name": "Place7",
+                  "owner": "N.T.I",
+                  "ic": 2,
+                  "pop": 99,
+                  "x": 1037,
+                  "y": 142,
+                  "ter": 3,
+                  "state": "Washington",
+                  "path": [
+                           "56",
+                           "79",
+                           "62",
+                           "5",
+                           "81",
+                           "40"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "113": {
+                  "name": "Place8",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 35,
+                  "x": 924,
+                  "y": 450,
+                  "ter": 4,
+                  "state": "Oregon",
+                  "path": [
+                           "18",
+                           "6",
+                           "23",
+                           "82"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "114": {
+                  "name": "Place9",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 14,
+                  "x": 2241,
+                  "y": 1197,
+                  "ter": 0,
+                  "state": "Louisiana",
+                  "path": [
+                           "94",
+                           "76",
+                           "105"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "115": {
+                  "name": "San Francisco",
+                  "owner": "AWS",
+                  "ic": 2,
+                  "pop": 29,
+                  "x": 950,
+                  "y": 757,
+                  "ter": 2,
+                  "state": "California",
+                  "path": [
+                           "97",
+                           "84"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         },
+         "116": {
+                  "name": "Place2",
+                  "owner": "x",
+                  "ic": 2,
+                  "pop": 7,
+                  "x": 1020,
+                  "y": 337,
+                  "ter": 3,
+                  "state": "Oregon",
+                  "path": [
+                           "104",
+                           "70",
+                           "44",
+                           "48",
+                           "57"
+                  ],
+                  "units": [
+                           "0"
+                  ]
+         }
+}
