@@ -106,15 +106,15 @@ global.cus_22 = make_color_rgb(218,165,32);
 // Country colors
 global.colors = ds_map_create();
 ds_map_add(global.colors, "x", global.cus_2);
-ds_map_add(global.colors, "CHAZ", global.cus_19);// Capitol Hill Autonomous Zone
+ds_map_add(global.colors, "CHAZ", global.cus_19);
 ds_map_add(global.colors, "Greater Detroit", global.cus_brown1);
 ds_map_add(global.colors, "GAY TEXAS", global.cus_3);
 ds_map_add(global.colors, "Church of St. Bernard", global.cus_17);
-ds_map_add(global.colors, "N.T.I", global.cus_7);// Northwest Territorial Imperative
+ds_map_add(global.colors, "N.T.I", global.cus_7);
 ds_map_add(global.colors, "MAGA COUNTRY", global.cus_16);
-ds_map_add(global.colors, "ASA", global.cus_18);// Antifacist States of America
+ds_map_add(global.colors, "ASA", global.cus_18);
 ds_map_add(global.colors, "Jesusland", global.cus_20);
-ds_map_add(global.colors, "AWS", global.cus_21);// Amazon World Syndicate
+ds_map_add(global.colors, "AWS", global.cus_21);
 ds_map_add(global.colors, "Kekistan", global.cus_1);
 ds_map_add(global.colors, "Silicon Valley", global.cus_22);
 ds_map_add(global.colors, "Pillbox", global.cus_gray1);
